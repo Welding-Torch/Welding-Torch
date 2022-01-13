@@ -8,6 +8,9 @@
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welding-Torch)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 Welding-Torch/Welding-Torch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
