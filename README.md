@@ -35,7 +35,17 @@ Message me on: ![https://t.me/Shuffleduffle](https://badgen.net/badge/icon/teleg
 [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
 ---
+[![Instagram_Sid](https://img.shields.io/badge/Follow_Me_On-Instagram-red?logo=instagram)](https://www.instagram.com/spider_sid/)
+[![Instagram_Sid](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/spider_sid/)
 
+[![Instagram_Sid](https://img.shields.io/badge/‎-Instagram-red?logo=instagram&logoColor=white)](https://www.instagram.com/spider_sid/)
+This is an example of me using my genius to overcome a very minor problem. The ImgShields badge does not support having a logo in a different background and 'status' in a different background; so I used an empty space character as the 'subject' instead :)
+
+## White and Black version
+![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)
+
+---
 --->
 
 ## Badges
