@@ -24,6 +24,18 @@ https://github.com/chetachiezikeuzor/chetachiezikeuzor/edit/main/README.md
 
 !BADGES!
 Add more badges to your readme from https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+---
+a link... within in a link??? what on god's good earth is this? I was just trying to get one of my badges to act as a hyperlink and then I discover THIS
+[![Coverage Status](https://coveralls.io/repos/github/frappe/erpnext/badge.svg?branch=develop)](https://coveralls.io/github/frappe/erpnext?branch=develop)
+
+## OLD Method of Linking
+Message me on: ![https://t.me/Shuffleduffle](https://badgen.net/badge/icon/telegram?icon=telegram&label)
+## NEW Method of Linking
+[![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
+
+---
+
 --->
 
 ## Badges
@@ -34,5 +46,7 @@ Add more badges to your readme from https://github.com/alexandresanlim/Badges4-R
 - I'm excited for the future of ![ReplIt](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 - I code in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-Message me on: ![https://t.me/Shuffleduffle](https://badgen.net/badge/icon/telegram?icon=telegram&label)
+Message me on:
+[![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
+
 
