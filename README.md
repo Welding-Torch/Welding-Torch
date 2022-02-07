@@ -63,4 +63,6 @@ I'm quite good at writing documentation
 Message me on:
 [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Welding-Torch&color=blue)
+
 
