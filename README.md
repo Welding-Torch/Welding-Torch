@@ -2,9 +2,9 @@
 
 # Hello, I'm Welding-Torch 👋
 - 👋 Hi, I’m @Welding-Torch
-- 👀 I’m interested in **Python, Raspberry Pi, Web Apps**
-- 🌱 I’m currently learning **Python**
-- 💬 I’m looking to collaborate on **any project that requires documentation, I'm quite good at writing documentation**
+- 👀 I’m interested in **Ajax-based Web Apps, Python, Raspberry Pi, Linux, and FOSS**
+- 🌱 I’m currently learning **Python, Javascript, React**
+- 💬 I’m looking to collaborate on **beginner-friendly projects, code-review, python scripts, knowledge management apps, writing documentation**
 - ✍️ I'm a Markdown enthusiast
 - 📫 How to reach me ...
 
@@ -46,6 +46,9 @@ This is an example of me using my genius to overcome a very minor problem. The I
 ![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)
 
 ---
+I'm quite good at writing documentation
+---
+
 --->
 
 ## Badges
