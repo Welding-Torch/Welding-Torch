@@ -7,6 +7,7 @@
 - 💬 I’m looking to collaborate on **beginner-friendly projects, code-review, python scripts, knowledge management apps, writing documentation**
 - ✍️ I'm a Markdown enthusiast. I'm very into `UX/UI Design`
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
+- 🌟 I am excited to explore the future of Personal Computing.
 - 📫 How to reach me ...
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch)](https://github.com/anuraghazra/github-readme-stats)
