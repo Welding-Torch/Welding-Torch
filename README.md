@@ -5,7 +5,7 @@
 - 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, and Natural Language Processing**
 - 🌱 I’m currently learning **Python, Django, Javascript, React, Bash**
 - 💬 I’m looking to collaborate on **beginner-friendly projects, code-review, python scripts, knowledge management apps, writing documentation**
-- ✍️ I'm a Markdown enthusiast. I'm very into `UX/UI Design`
+- ✍️ I'm a Markdown enthusiast. I'm very into `UI/UX Design`
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
 - 🌟 I am excited to explore the future of Personal Computing.
 - 📫 How to reach me ...
@@ -59,15 +59,13 @@ I'm quite good at writing documentation
 - I hate ![MSTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 - I believe in ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) superiority
 - I'm excited for the future of ![ReplIt](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
-- I code in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- I primarily code in ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 Message me on:
 [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Welding-Torch&color=blue)
-
 ---
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Welding-Torch&color=orange)
 ![Mumbai](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8E%20In-Mumbai-orange?style=for-the-badge)
 
 
