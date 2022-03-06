@@ -17,6 +17,7 @@
 
 
 <!---
+
 Welding-Torch/Welding-Torch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
@@ -48,8 +49,7 @@ This is an example of me using my genius to overcome a very minor problem. The I
 ![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)
 
 ---
-I'm quite good at writing documentation
----
+I'm quite good at writing documentation.
 
 --->
 
@@ -65,7 +65,9 @@ Message me on:
 [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
 ---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Welding-Torch&color=orange)
+
 ![Mumbai](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8E%20In-Mumbai-orange?style=for-the-badge)
 
 
