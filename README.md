@@ -1,18 +1,19 @@
 ![hello-i-m-welding-torch-welcome](https://user-images.githubusercontent.com/46340124/152594586-eeaf6f7c-f7b7-4f64-98d9-fb0c77a7ef8e.gif)
 
-# Hello, I'm Welding-Torch 👋
-- 👋 Hi, I’m @Welding-Torch
+# Hello there, I'm Welding-Torch 👋
 - 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, and Natural Language Processing**
 - 🌱 I’m currently learning **Python, Django, Javascript, React, Bash**
 - 💬 I’m looking to collaborate on **beginner-friendly projects, code-review, python scripts, knowledge management apps, writing documentation**
 - ✍️ I'm a Markdown enthusiast. I'm very into `UI/UX Design`
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
 - 🌟 I am excited to explore the future of Personal Computing.
-- 📫 How to reach me ...
+- 📫 How to reach me [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
-[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch)](https://github.com/anuraghazra/github-readme-stats)
+[![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welding-Torch)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welding-Torch&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Welding-Torch)
 
 
 
@@ -52,6 +53,28 @@ This is an example of me using my genius to overcome a very minor problem. The I
 I'm quite good at writing documentation.
 
 --->
+
+### Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-orange?style=for-the-badge&logo=obsidian&color=483699)
+![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-5778d8?style=for-the-badge&logo=TiddlyWiki&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual--Studio--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Workspace Specs
+
+![graphics-card](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![cpu](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
 
 ## Badges
 - Grew up on ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
