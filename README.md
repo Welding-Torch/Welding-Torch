@@ -11,7 +11,7 @@
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welding-Torch&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welding-Torch&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Welding-Torch)
 
@@ -62,10 +62,12 @@ I'm quite good at writing documentation.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-orange?style=for-the-badge&logo=obsidian&color=483699)
 ![TiddlyWiki](https://img.shields.io/badge/TiddlyWiki-5778d8?style=for-the-badge&logo=TiddlyWiki&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual--Studio--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Workspace Specs
