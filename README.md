@@ -2,12 +2,12 @@
 
 # Hello there, I'm Welding-Torch 👋
 - 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, and Natural Language Processing**
-- 🌱 I’m currently learning **Python, Django, Javascript, React, Bash**
-- 💬 I’m looking to collaborate on **beginner-friendly projects, code-review, python scripts, knowledge management apps, writing documentation**
+- 🌱 I’m currently learning **Python, Django, Javascript, React.js, Bash, TypeScript**
+- 💬 I’m looking to collaborate on **Beginner-friendly Projects, Code-review, Python scripts, Knowledge Management apps, Writing Documentation** and opportunities related to **Web Development**.
 - ✍️ I'm a Markdown enthusiast. I'm very into `UI/UX Design`
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
 - 🌟 I am excited to explore the future of Personal Computing.
-- 📫 How to reach me [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
+- 📫 You can reach me at [![Telegram_Button](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/Shuffleduffle)
 
 [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Welding-Torch&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
