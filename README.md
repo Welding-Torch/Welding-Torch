@@ -1,7 +1,7 @@
 ![hello-i-m-welding-torch-welcome](https://user-images.githubusercontent.com/46340124/152594586-eeaf6f7c-f7b7-4f64-98d9-fb0c77a7ef8e.gif)
 
 # Hello there, I'm Welding-Torch 👋
-- 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, and Natural Language Processing**
+- 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, Low-Level Code, A.I. and Natural Language Processing**
 - 🌱 I’m currently learning **Python, Django, Javascript, React.js, Bash, TypeScript**
 - 💬 I’m looking to collaborate on **Beginner-friendly Projects, Code-review, Python scripts, Knowledge Management apps, Writing Documentation** and opportunities related to **Web Development**.
 - ✍️ I'm a Markdown enthusiast. I'm very into `UI/UX Design`
