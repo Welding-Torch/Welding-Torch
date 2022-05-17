@@ -2,8 +2,8 @@
 
 # Hello there, I'm Welding-Torch 👋
 - 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, Low-Level Code, A.I. and Natural Language Processing**
-- 🌱 I’m currently learning **Python, Django, Javascript, React.js, Bash, TypeScript**
-- 💬 I’m looking to collaborate on **Beginner-friendly Projects, Code-review, Python scripts, Knowledge Management apps, Writing Documentation** and opportunities related to **Web Development**.
+- 🌱 I’m currently learning **Javascript, C, React.js, TypeScript, Python, Django, Bash, Figma and always more.**
+- 💬 I’m looking to collaborate on **Beginner-friendly Projects, Writing Documentation, Code-review, Python Scripts, Knowledge Management apps** and opportunities related to **Web Development**.
 - ✍️ I'm a Markdown enthusiast. I'm very into `UI/UX Design`
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
 - 🌟 I am excited to explore the future of Personal Computing.
