@@ -3,7 +3,7 @@
 # Hello there, I'm Welding-Torch 👋
 - 👀 I’m interested in **Ajax-based Web Apps, Web Development, Retro Console Emulation, Graphic Design, Python, Raspberry Pi, Linux, FOSS, Low-Level Code, A.I. and Natural Language Processing**
 - 🌱 I’m currently learning **Javascript, C, React.js, TypeScript, Python, Django, Bash, Figma and always more.**
-- 💬 I’m looking to collaborate on **Beginner-friendly Projects, Writing Documentation, Code-review, Python Scripts, Knowledge Management apps** and opportunities related to **Web Development**.
+- 💬 I’m looking to collaborate on **Building Apps, Writing Documentation, Code-review, Python Scripts, Knowledge Management apps** and opportunities related to **Web Development**.
 - ✍️ I'm a Markdown enthusiast. I care about `UI/UX Design`.
 - 💙 My Obsession? Beautiful, Clean, and Minimal UI.
 - 🌟 I am excited to explore the future of Personal Computing.
@@ -98,4 +98,5 @@ I'm quite good at writing documentation.
 
 ![Mumbai](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8E%20In-Mumbai-orange?style=for-the-badge)
 
-
+**Excel Anonymizer Total Downloads**:  
+[![Downloads](https://static.pepy.tech/badge/excel-anonymizer)](https://pepy.tech/project/excel-anonymizer)
