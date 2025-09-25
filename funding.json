@@ -18,7 +18,7 @@
         "description": "Install C is a fast and simple One-Click Installer for the entire C development toolchain.\n\nIt is an effort to bring the latest version of GCC to Windows in an easy and conventional way. Install C is used by tens of thousands of people worldwide.",
         "webpageUrl": {
             "url": "https://installc.org",
-            "wellKnown": "https://installc.org/.well-known/funding-manifest-urls"
+            "wellKnown": ""
         },
         "repositoryUrl": {
             "url": "https://github.com/Welding-Torch/installc",
