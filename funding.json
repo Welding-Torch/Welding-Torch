@@ -1,0 +1,111 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Siddharth Bhatia",
+        "email": "siddharthb787+fundingjson@gmail.com",
+        "phone": "",
+        "description": "I'm Siddharth, a Software Developer based in Mumbai. I have an interest in solving specific problems, and in using tech for good. My philosophy is that technology should always keep the human brain in mind, keeping things simple and clear. I've been using FOSS software my entire life, and I am a proponent of it. Shoot me an email if you want to learn more at siddharthb787+fundingjson@gmail.com\n\nDonate to Siddharth Bhatia using the funding.json",
+        "webpageUrl": {
+            "url": "https://github.com/Welding-Torch/",
+            "wellKnown": ""
+        }
+    },
+    "projects": [{
+        "guid": "installc",
+        "name": "Install C",
+        "description": "Install C is a fast and simple One-Click Installer for the entire C development toolchain.\n\nIt is an effort to bring the latest version of GCC to Windows in an easy and conventional way. Install C is used by tens of thousands of people worldwide.",
+        "webpageUrl": {
+            "url": "https://installc.org",
+            "wellKnown": "https://installc.org/.well-known/funding-manifest-urls"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/Welding-Torch/installc",
+            "wellKnown": "https://github.com/welding-torch/installc/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:GPL-3.0"],
+        "tags": ["c-language", "windows", "compiler", "gcc", "vscode", "beginner","developer-tools", "development", "education", "programming"]
+    },
+    {
+        "guid": "excel-anonymizer",
+        "name": "Excel Anonymizer",
+        "description": "A Python script that anonymizes an Excel file and synthesizes new data in its place.\n\nExcel Anonymizer is a python script that helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization for private entities in text such as credit card numbers, names, locations, phone numbers, email address, date/time, with more entities to come.\n\n\n\nData anonymization is crucial because it helps protect privacy and maintain confidentiality. If data is not anonymized, sensitive information such as names, addresses, contact numbers, or other identifiers linked to specific individuals could potentially be learned and misused. Hence, by obscuring or removing this personally identifiable information (PII), data can be used freely without compromising individuals’ privacy rights or breaching data protection laws and regulations.\n\nThe output data can be used to train LLMs safely, or as a decoy excel sheet.",
+        "webpageUrl": {
+            "url": "https://pypi.org/project/excel-anonymizer/",
+            "wellKnown": ""
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/Welding-Torch/Excel-Anonymizer",
+            "wellKnown": "https://github.com/welding-torch/excel-anonymizer/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["spdx:MIT"],
+        "tags": ["microsoft", "nlp", "data-science", "privacy", "pandas", "presidio", "data", "information-management", "privacy"]
+    }],
+    "funding": {
+        "channels": [
+            {
+                "guid": "mybank",
+                "type": "bank",
+                "address": "",
+                "description": "Will accept direct bank transfers. Please e-mail me for details."
+            },
+            {
+                "guid": "mypay",
+                "type": "payment-provider",
+                "address": "https://example.com/payme/@myid",
+                "description": "Pay with your debit/credit card through this gateway and setup recurring subscriptions."
+            },
+            {
+                "guid": "upi",
+                "type": "payment-provider",
+                "address": "sidbhatia247@oksbi",
+                "description": "Pay with your UPI-enabled Bank Account."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "hosting-yearly",
+                "status": "active",
+                "name": "Hosting support",
+                "description": "This will cover the yearly server hosting costs for the projects.",
+                "amount": 1428,
+                "currency": "INR",
+                "frequency": "yearly",
+                "channels": ["upi"]
+            },
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This will cover the cost of one developer working part-time on the projects.",
+                "amount": 6000,
+                "currency": "INR",
+                "frequency": "monthly",
+                "channels": ["upi"]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 0,
+                "currency": "INR",
+                "frequency": "one-time",
+                "channels": ["upi"]
+            }
+        ],
+        "history": [
+            {"year": 2023, "income": 0, "expenses": 543.31, "taxes": 0, "currency": "INR", "description": "Website Hosting Cost"},
+            {"year": 2024, "income": 0, "expenses": 1272.70, "taxes": 0, "currency": "INR", "description": "Website Hosting Cost"},
+            {"year": 2025, "income": 0, "expenses": 1428, "taxes": 0, "currency": "INR", "description": "Website Hosting Cost"}
+        ]
+    }
+}
+
+// add .well-known/funding-manifest-url to installc repo, excel-anonymizer repo, and install c website repo.
+
+// I will also set up a Paypal soon so that I can accept payments from around the world.
+// paypal.me/siddharthb787
+
+// Finally, remove comments to make this a valid funding.json file.
