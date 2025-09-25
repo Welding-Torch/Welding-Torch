@@ -22,7 +22,7 @@
         },
         "repositoryUrl": {
             "url": "https://github.com/Welding-Torch/installc",
-            "wellKnown": "https://github.com/welding-torch/installc/blob/main/.well-known/funding-manifest-urls"
+            "wellKnown": ""
         },
         "licenses": ["spdx:GPL-3.0"],
         "tags": ["c-language", "windows", "compiler", "gcc", "vscode", "beginner","developer-tools", "development", "education", "programming"]
@@ -37,7 +37,7 @@
         },
         "repositoryUrl": {
             "url": "https://github.com/Welding-Torch/Excel-Anonymizer",
-            "wellKnown": "https://github.com/welding-torch/excel-anonymizer/blob/main/.well-known/funding-manifest-urls"
+            "wellKnown": ""
         },
         "licenses": ["spdx:MIT"],
         "tags": ["microsoft", "nlp", "data-science", "privacy", "pandas", "presidio", "data", "information-management", "privacy"]
@@ -102,10 +102,3 @@
         ]
     }
 }
-
-// add .well-known/funding-manifest-url to installc repo, excel-anonymizer repo, and install c website repo.
-
-// I will also set up a Paypal soon so that I can accept payments from around the world.
-// paypal.me/siddharthb787
-
-// Finally, remove comments to make this a valid funding.json file.
