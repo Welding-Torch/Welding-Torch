@@ -32,8 +32,8 @@
         "name": "Excel Anonymizer",
         "description": "A Python script that anonymizes an Excel file and synthesizes new data in its place.\n\nExcel Anonymizer is a python script that helps to ensure sensitive data is properly managed and governed. It provides fast identification and anonymization for private entities in text such as credit card numbers, names, locations, phone numbers, email address, date/time, with more entities to come.\n\n\n\nData anonymization is crucial because it helps protect privacy and maintain confidentiality. If data is not anonymized, sensitive information such as names, addresses, contact numbers, or other identifiers linked to specific individuals could potentially be learned and misused. Hence, by obscuring or removing this personally identifiable information (PII), data can be used freely without compromising individuals’ privacy rights or breaching data protection laws and regulations.\n\nThe output data can be used to train LLMs safely, or as a decoy excel sheet.",
         "webpageUrl": {
-            "url": "https://pypi.org/project/excel-anonymizer/",
-            "wellKnown": ""
+            "url": "https://github.com/Welding-Torch/Excel-Anonymizer",
+            "wellKnown": "https://github.com/Welding-Torch/Excel-Anonymizer/blob/main/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/Welding-Torch/Excel-Anonymizer",
